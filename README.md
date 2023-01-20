@@ -1,2 +1,2 @@
-# adck700
+Bootcamp project
 Eliza Diana Airinei
