@@ -1,3 +1,5 @@
-Bootcamp project - Processing
+# Eliza Diana Airinei - Bootcamp project - Processing
 
-Eliza Diana Airinei
+# htps://Eliza9a.github.io
+
+For more information, click on the link above.
